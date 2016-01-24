@@ -1,1 +1,3 @@
-console.log("p1");
+export function Run() {
+    console.log("p1");
+}
